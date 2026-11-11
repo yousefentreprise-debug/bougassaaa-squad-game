@@ -1,0 +1,9 @@
+node_modules/
+preview-mobile.png
+test_game.py
+game.js
+*.log
+src/web/screens/
+src/web/components/
+src/web/fonts.ts
+src/web/styles/
